@@ -1,8 +1,6 @@
 Project info
-
 Live Demo: View Project
-
-(Replace this link with your project’s live deployment URL if available.)
+https://fashionagent.vercel.app/
 
 How can I edit this code?
 
